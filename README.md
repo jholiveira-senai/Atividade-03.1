@@ -12,15 +12,15 @@ Victor Gabriel de Jesus.
 Foram escolhidas as entidades "Cursos" e "Alunos".
 
 # Endpoints Desenvolvidos:
-GET/alunos
-GET/alunos:id
-POST/alunos
-PUT/alunos/:id
-DELETE/alunos/:id
+GET/alunos,
+GET/alunos:id,
+POST/alunos,
+PUT/alunos/:id,
+DELETE/alunos/:id.
 
-GET/cursos
-POST/cursos
-DELETE/cursos/:id
+GET/cursos,
+POST/cursos,
+DELETE/cursos/:id.
 
 # Link do Repositório GitHub:
 https://github.com/jholiveira-senai/Atividade-03.1
